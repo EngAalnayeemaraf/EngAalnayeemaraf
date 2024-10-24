@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <div class="links">
+     <div align="right">
         <a href="#">👨🏻‍💻 Portfolio</a>
           |
         <a href="#">📜 Resume</a>
@@ -22,6 +22,6 @@
 My journey is driven by a lifelong dream of becoming a skilled software engineer, and I'm committed to achieving this goal. I aspire to contribute to innovative projects at leading tech companies like Google, Microsoft, Meta, and Apple.
 Let's connect and explore the exciting possibilities of the tech world together!</p>
     </div>
-   
+    
 </body>
 </html>
