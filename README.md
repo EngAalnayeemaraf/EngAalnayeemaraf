@@ -16,9 +16,9 @@
 </head>
 <body>
     <div class="profile">
-        <p>My name is <b>Abdullah Al Nayeem Araf</b>. I'm a dedicated Computer Science and Technology student at <a href="https://www.dti.ac">Daffodil Technical Institute - DTI</a>, passionate about crafting exceptional digital experiences. Currently, I'm honing my skills in Full Stack Web Design & Development at <a href="https://dipti.com.bd">Daffodil International Professional Training Institute - DIPTI</a>.
+        <p><h5>My name is <b>Abdullah Al Nayeem Araf</b>. I'm a dedicated Computer Science and Technology student at <a href="https://www.dti.ac">Daffodil Technical Institute - DTI</a>, passionate about crafting exceptional digital experiences. Currently, I'm honing my skills in Full Stack Web Design & Development at <a href="https://dipti.com.bd">Daffodil International Professional Training Institute - DIPTI</a>.
 My journey is driven by a lifelong dream of becoming a skilled software engineer, and I'm committed to achieving this goal. I aspire to contribute to innovative projects at leading tech companies like Google, Microsoft, Meta, and Apple.
-Let's connect and explore the exciting possibilities of the tech world together!</p>
+Let's connect and explore the exciting possibilities of the tech world together!</h5></p>
     </div>
     
    <h2>🛠  Tech Stack </h2>
