@@ -4,16 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <div align="right">
-        <a href="#">👨🏻‍💻 Portfolio</a>
-          |
-        <a href="#">📜 Resume</a>
-          |
-        <a href="https://www.youtube.com/@abdullahalnayeemaraf">▶️ Youtube</a>
-          |
-        <a href="https://www.facebook.com/abdullahalnayeem2k23">📓 Facebook</a>
-          |
-        <a href="https://linkedin.com/in/abdullah-al-nayeem-araf">🧳 Linkedin</a>
-    </div>
+    <p>
+        <a href="#" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
+        <a href="#" target="_blank"><b>📜 Resume</b></a> |
+        <a href="facebook.com/abdullahalnayeem2k23" target="_blank"><b>📓 Facebook</b></a> |
+        <a href="https://youtube.com/@abdullahalnayeemaraf" target="_blank"><b>▶️ Youtube </b></a> |
+        <a href="linkedin.com/in/abdullah-al-nayeem-araf" target="_blank"><b>🧳 Linkedin</b></a> 
+    </p>
+</div>
     <br>
 </head>
 <body>
@@ -23,5 +21,7 @@ My journey is driven by a lifelong dream of becoming a skilled software engineer
 Let's connect and explore the exciting possibilities of the tech world together!</p>
     </div>
     
+   <h2>🛠  Tech Stack </h2>
+   
 </body>
 </html>
