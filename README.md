@@ -22,6 +22,8 @@ Let's connect and explore the exciting possibilities of the tech world together!
     </div>
     
    <h2>🛠  Tech Stack </h2>
+
+   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,py,pycharm)](https://skillicons.dev)
    
 </body>
 </html>
