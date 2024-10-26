@@ -7,9 +7,9 @@
     <p>
         <a href="#" target="_blank"><b>👨🏻‍💻 Portfolio</b></a> |
         <a href="#" target="_blank"><b>📜 Resume</b></a> |
-        <a href="facebook.com/abdullahalnayeem2k23" target="_blank"><b>📓 Facebook</b></a> |
-        <a href="https://youtube.com/@abdullahalnayeemaraf" target="_blank"><b>▶️ Youtube </b></a> |
-        <a href="linkedin.com/in/abdullah-al-nayeem-araf" target="_blank"><b>🧳 Linkedin</b></a> 
+        <a href="https://www.facebook.com/abdullahalnayeem2k23" target="_blank"><b>📓 Facebook</b></a> |
+        <a href="https://www.youtube.com/@abdullahalnayeemaraf" target="_blank"><b>▶️ Youtube </b></a> |
+        <a href="https://www.linkedin.com/in/abdullah-al-nayeem-araf" target="_blank"><b>🧳 Linkedin</b></a> 
     </p>
 </div>
     <br>
